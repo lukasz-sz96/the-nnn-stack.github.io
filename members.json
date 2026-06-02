@@ -10,5 +10,6 @@
   { "github": "phaer" },
   { "github": "pogoba", "dotfiles": "https://github.com/pogoba/dotfiles" },
   { "github": "rytswd", "dotfiles": "https://github.com/rytswd/nix-config" },
-  { "github": "Scrumplex", "dotfiles": "https://github.com/Scrumplex/flake" }
+  { "github": "Scrumplex", "dotfiles": "https://github.com/Scrumplex/flake" },
+  { "github": "lukasz-sz96", "dotfiles": "https://github.com/lukasz-sz96/nixos-config" }
 ]
